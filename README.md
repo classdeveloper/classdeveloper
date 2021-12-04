@@ -12,13 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+<h1 align="center">Erick Santana</h1>
+<p align="center">Software Developer
+<br><a href="mailto:ericksantana.contact@gmail.com" align="center">hire me</a></p>
 <p align="center">
-    <a href="https://github.com/Flexeey">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Flexeey">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:ericksantana.contact@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ericksantana.contact@gmail.com">
-    </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="48" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" />
+  <br>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" />
+  <br><br>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" height="48" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinopai&theme=radical&count_private=true"/>
 </p>
