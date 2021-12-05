@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <p align="center">Software Developer
 <br><a href="mailto:ericksantana.contact@gmail.com" align="center">hire me</a></p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="48" />
+  <img src="" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="48" />
   <br><br>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" />
   <br>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" height="48" />
   <br><br>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" height="48" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="48" />
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinopai&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=flexeey&theme=radical&count_private=true"/>
 </p>
