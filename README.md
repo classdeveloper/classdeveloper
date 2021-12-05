@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flexeey&show_icons=true&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Flexeey&theme=radical&count_private=true"/>
 </p>
