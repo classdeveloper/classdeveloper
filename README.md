@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
   <br><br>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
   <br><br>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="48" />
   <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png" height="48" />
