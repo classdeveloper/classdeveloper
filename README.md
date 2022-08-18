@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">Software Developer
 <br><a href="mailto:ericksantana.contact@gmail.com" align="center">hire me</a></p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" height="48" />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
