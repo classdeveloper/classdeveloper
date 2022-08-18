@@ -13,13 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Erick Santana</h1>
-<p align="center">Software Developer
+<p align="center">Lua Developer
 <br><a href="mailto:ericksantana.contact@gmail.com" align="center">hire me</a></p>
 <p align="center">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" height="48" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
   <br><br>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png" height="48" />
