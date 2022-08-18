@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="48" />
   <br><br>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> height="48" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png" height="48" />
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" height="48" />
 </p>
