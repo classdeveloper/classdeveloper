@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Erick Santana</h1>
-<p align="center">Software Developer
+<p align="center">Software and Games Developer
 <br><a href="mailto:ericksantana.contact@gmail.com" align="center">hire me</a></p>
 <p align="center">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" height="48" />
