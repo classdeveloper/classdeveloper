@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flexeey&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=classdeveloper&theme=radical&count_private=true"/>
 </p>
