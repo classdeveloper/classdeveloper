@@ -1,4 +1,4 @@
-Hi 👋, I am Erick Santana     <img align=right src="https://gpvc.arturio.dev/classdeveloper"/> 
+Hi 👋, I am Erick Santana 
 ---
 ## Contact
 
@@ -6,7 +6,7 @@ Hi 👋, I am Erick Santana     <img align=right src="https://gpvc.arturio.dev/c
      alt="Github stats" width="500">
 
 [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/1010300592704475217)
-<kbd>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</kbd>(mailto:ericksantana.contact@gmail.com)
+[<kbd>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</kbd>](mailto:ericksantana.contact@gmail.com)
 
 ## Tools
 <kbd> ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) </kbd>
