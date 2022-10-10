@@ -1,29 +1,26 @@
-<!--
-**Flexeey/Flexeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I am Erick Santana     <img align=right src="https://gpvc.arturio.dev/yxqsnz"/> 
+---
+## Contact
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=classdeveloper&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" align="right"
+     alt="Github stats" width="500">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Erick Santana</h1>
-<p align="center">Game and desktop developer
-<br><a href="mailto:ericksantana.contact@gmail.com" align="center">hire me</a></p>
-<p align="center">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" height="48" />
-  <br><br>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/brave-web-browser.png" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" height="48" />
-</p>
+[<kbd>![Matrix](https://img.shields.io/badge/Matrix-25D366?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@awakinos:matrix.org)
+[<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/615176567567548446)
+[<kbd>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yxqsnz)
+[<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/yxqsnz)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=classdeveloper&theme=radical&count_private=true"/>
-</p>
+## Tools
+<kbd> ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) </kbd>
+<kbd> ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) </kbd>
+<kbd> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) </kbd>
+<kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
+## Experience
+<kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
+<kbd> ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) </kbd>
+<kbd> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) </kbd>
+<kbd> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </kbd>
+<kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
+<kbd> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </kbd>
+    
+![](https://hit.yhype.me/github/profile?user_id=73546477)
