@@ -16,8 +16,8 @@ Hi 👋, I am Erick Santana
 </div>
 
 ## Skills
-<div align="center">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<div align="left">
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
