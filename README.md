@@ -15,6 +15,12 @@ Hi 👋, I am Erick Santana
 <kbd> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </kbd>
 ## Skills
 
-<img src="https://icons8.com.br/icon/13679/logo-java-coffee-cup" height="32" />
-     
-![](https://hit.yhype.me/github/profile?user_id=73546477)
+<br>
+   <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="32" />
+  </div>
+  <br><br>
