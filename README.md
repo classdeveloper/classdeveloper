@@ -15,6 +15,6 @@ Hi 👋, I am Erick Santana
 <kbd> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </kbd>
 ## Experience
 <kbd> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) </kbd>
-<kbd> (https://icons8.com.br/icon/13679/logo-java-coffee-cup)
+(https://icons8.com.br/icon/13679/logo-java-coffee-cup)
      
 ![](https://hit.yhype.me/github/profile?user_id=73546477)
