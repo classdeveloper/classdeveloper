@@ -15,9 +15,9 @@ Hi 👋, I am Erick Santana
 <kbd> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </kbd>
 ## Skills
 
-<br>
+
    <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    
    
   </div>
-  <br><br>
+
