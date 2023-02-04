@@ -13,8 +13,8 @@ Hi 👋, I am Erick Santana
 <kbd> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </kbd>
 <kbd> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
 <kbd> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </kbd>
-## Experience
-<kbd> ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) </kbd>
+## Skills
+
 <img src="https://icons8.com.br/icon/13679/logo-java-coffee-cup" height="32" />
      
 ![](https://hit.yhype.me/github/profile?user_id=73546477)
