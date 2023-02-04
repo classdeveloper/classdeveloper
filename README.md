@@ -1,9 +1,10 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=classdeveloper&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" align="right"
      alt="Github stats" width="500">
 
+## Contact
 [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/1057007031044816967)
 [<kbd>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[<kbd>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<kbd>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</kbd>
 [<kbd>![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/)
 
 ## Tools
