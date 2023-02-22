@@ -17,6 +17,7 @@
 <kbd> ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) </kbd>
 
 ## My stats
+
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=classdeveloper&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=classdeveloper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
