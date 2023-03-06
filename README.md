@@ -3,7 +3,6 @@
 ## Technologies
 
 <kbd> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) </kbd>
-<kbd> ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) </kbd>
 <kbd> ![Mysql](https://img.shields.io/badge/MySQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=black) </kbd>
 
 ## Interest
