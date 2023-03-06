@@ -3,7 +3,6 @@
 ## Technologies
 
 <kbd> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) </kbd>
-<kbd> ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) </kbd>
 <kbd> ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) </kbd>
 <kbd> ![Mysql](https://img.shields.io/badge/MySQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=black) </kbd>
 
@@ -11,7 +10,6 @@
 
 <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
 <kbd> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) </kbd>
-<kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
 <kbd> ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) </kbd>
 
 ## My stats
