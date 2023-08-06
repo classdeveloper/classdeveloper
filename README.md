@@ -2,12 +2,12 @@
 
 ## Technologies
 
-<kbd> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) </kbd>
+<kbd> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) </kbd>
 <kbd> ![Mysql](https://img.shields.io/badge/MySQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=black) </kbd>
 
 ## Interest
 
-<kbd> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) </kbd>
+<kbd> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) </kbd>
 <kbd> ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) </kbd>
 
 ## My stats
