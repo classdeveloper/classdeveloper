@@ -10,7 +10,7 @@
 
 <kbd> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) </kbd>
 <kbd> ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) </kbd>
-<kbd> ![Mysql](![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)) </kbd>
+<kbd> ![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) </kbd>
 
 ## My stats
 
